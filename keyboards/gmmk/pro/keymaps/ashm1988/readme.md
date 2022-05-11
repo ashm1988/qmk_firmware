@@ -10,7 +10,6 @@
     - Default, change volume
 
 
-![Layer 1](/assets/_COLE.png)
-![Layer 2](/assets/_QWER.png)
-![Layer 3](/assets/_FN.png)
-
+![Layer 1](https://github.com/ashm1988/qmk_firmware/blob/develop/keyboards/gmmk/pro/keymaps/ashm1988/assets/_COLE.png?raw=true)
+![Layer 2](https://github.com/ashm1988/qmk_firmware/blob/develop/keyboards/gmmk/pro/keymaps/ashm1988/assets/_QWER.png?raw=true)
+![Layer 3](https://github.com/ashm1988/qmk_firmware/blob/develop/keyboards/gmmk/pro/keymaps/ashm1988/assets/_FN.png?raw=true)
