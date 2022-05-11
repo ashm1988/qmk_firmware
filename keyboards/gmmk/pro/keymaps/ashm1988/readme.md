@@ -1,8 +1,7 @@
 # Ashm1988's GMMK Pro layout
 
 - Add all the non-RGB related keys from Glorious Core default mapping that's missing in the default qmk mapping
-- Add PrtScr, Scroll Lock, Break, NumLock to Fn layer
-- Implement Win key lock using Fn+Win like in Glorious Core firmware
+- Add PrtScr, Scroll Lock, Break, to Fn layer
 - Add layer swapping to num keys on Fn layer
 - Additional encoder functionality
     - Holding R shift/Alt/Ctl, Navigate various VoiceBanana strips via F key macros
